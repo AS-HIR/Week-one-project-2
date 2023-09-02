@@ -96,7 +96,7 @@ transition: .5seconds;
   background-color: #69bacc;
 }
 .main-bg{
-  background:url(/site-puffin/images/puffin-bg-image.webp);
+  background:url(images/puffin-bg-image.webp);
   background: linear-gradient(rgba(0,0,0,0.4));
   background-size:cover;
   background-position: center;
